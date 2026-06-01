@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" aria-label="Airline logo placeholder">
+  <rect width="120" height="120" rx="16" fill="#1A1A2E"/>
+  <path d="M60 28 L88 68 H72 L60 52 L48 68 H32 Z" fill="#E31E24"/>
+  <text x="60" y="98" text-anchor="middle" fill="#9CA3AF" font-family="system-ui,sans-serif" font-size="11">VA</text>
+</svg>

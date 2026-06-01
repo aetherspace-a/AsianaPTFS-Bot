@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="80" viewBox="0 0 240 80" role="img" aria-label="Asiana Airlines">
+  <rect width="240" height="80" rx="8" fill="#1A1A2E"/>
+  <circle cx="40" cy="40" r="24" fill="#E31E24"/>
+  <text x="40" y="46" text-anchor="middle" fill="#fff" font-family="system-ui,sans-serif" font-size="14" font-weight="700">OZ</text>
+  <text x="80" y="46" fill="#F5F5F7" font-family="system-ui,sans-serif" font-size="22" font-weight="600">Asiana Airlines</text>
+</svg>

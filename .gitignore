@@ -1,0 +1,15 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+node_modules/
+.next/
+out/
+dist/
+*.egg-info/
+.DS_Store
+pgdata/
+storage/boarding_passes/*.png
+!storage/boarding_passes/.gitkeep

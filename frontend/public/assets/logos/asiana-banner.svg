@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Asiana Airlines banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1A1A2E"/>
+      <stop offset="100%" stop-color="#0F0F14"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <circle cx="160" cy="160" r="72" fill="#E31E24"/>
+  <text x="160" y="172" text-anchor="middle" fill="#fff" font-family="system-ui,sans-serif" font-size="42" font-weight="700">OZ</text>
+  <text x="280" y="150" fill="#F5F5F7" font-family="system-ui,sans-serif" font-size="48" font-weight="700">Asiana Airlines</text>
+  <text x="280" y="200" fill="#C9A227" font-family="system-ui,sans-serif" font-size="20">Virtual Airline  PTFS</text>
+</svg>

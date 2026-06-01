@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #e31e24;
+  --color-secondary: #1a1a2e;
+  --color-accent: #c9a227;
+  --color-background: #0f0f14;
+  --color-surface: #1e1e2a;
+}
+
+body {
+  @apply bg-brand-background text-brand-text antialiased;
+}
